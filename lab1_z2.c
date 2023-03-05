@@ -3,7 +3,7 @@
 typedef struct 
 {
 
-    char str[4];
+    char str[5];
     int num;
 
 } NumberRepr;
